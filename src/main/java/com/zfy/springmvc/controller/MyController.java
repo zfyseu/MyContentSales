@@ -571,4 +571,6 @@ public class MyController {
 		JSONObject jsonObject=JSONObject.fromObject(map);
 	    return jsonObject.toString();
 	}
+	
+	public void test(){}
 }
